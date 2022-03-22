@@ -21,7 +21,7 @@
 
 /* Styles for the whole page */
 body {
-    font-family: 'News Cycle', sans-serif;   
+    font-family: 'News Cycle', sans-serif;
 }
 
 /* Header */
@@ -31,11 +31,59 @@ h1 {
     padding: 10px;
 }
 
-/* Buttons and Labels */
+/* Buttons, Icons, and Labels */
 label {
     padding: 5px;
     font-size: 2rem;
     background-color: white;
     border-radius: 15px;
     margin-bottom: 15px;
+}
+
+.card {
+    margin: 10px;
+}
+
+.colOne {
+    color: white;
+}
+
+.colTwo {
+    background-color: transparent;
+}
+
+.histBtnRow {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.icons {
+    height: 50px;
+    width: 50px;
+}
+
+.cardTodayDate {
+    font-size: 1.0rem;
+    color: white;
+}
+
+/* This is for the UV Rating */
+.green {
+    background-color: mediumseagreen;
+}
+
+.yellow {
+    background-color: palegoldenrod;
+}
+
+.orange {
+    background-color: lightsalmon;
+}
+
+.red {
+    background-color:crimson
+}
+
+.purple {
+    background-color: indigo;
 }
