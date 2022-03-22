@@ -1,0 +1,32 @@
+/* Backgrounds Based on Time of Day */
+.day {
+    background: url(https://www.miggardencare.co.uk/wp-content/uploads/2016/04/sunny-background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center top;
+}
+.sunset {
+    background: url(https://images2.alphacoders.com/120/1209425.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center top;
+}
+
+.night {
+    background: url(https://www.teahub.io/photos/full/135-1352811_starry-night-sky-wallpaper.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center top;
+}
+
+/* Styles for the whole page */
+body {
+    font-family: 'News Cycle', sans-serif;   
+}
+
+/* Header */
+h1 {
+    text-align: center;
+    margin: 0;
+    padding: 10px;
+}
