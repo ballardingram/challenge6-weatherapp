@@ -30,3 +30,12 @@ h1 {
     margin: 0;
     padding: 10px;
 }
+
+/* Buttons and Labels */
+label {
+    padding: 5px;
+    font-size: 2rem;
+    background-color: white;
+    border-radius: 15px;
+    margin-bottom: 15px;
+}

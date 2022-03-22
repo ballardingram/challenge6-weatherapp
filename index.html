@@ -11,6 +11,7 @@
         <style> @import url('https://fonts.googleapis.com/css2?family=News+Cycle:wght@700&display=swap');</style>
         <script src="https://kit.fontawesome.com/a31af345b8.js" crossorigin="anonymous"></script>
         <link rel="icon" type="image/x-icon" href="./assets/images/ficon.ico">
+        <link rel = "stylesheet" href = "./assets/css/bootstrap.css">
         <script type="text/javascript" src="https://code.jquery.com/jquery-1.7.1.min.js"></script>
         <title>WeatherView</title>
     </head>
@@ -22,11 +23,10 @@
                 <div class="row">
                     <div class="col-12 col-md-3 col-xl-3 colOne">
                         <label>City Search</label>
-
                         <div class="input-group mb-3">
                             <input type="text" class="form-control textVal" placeholder="Type here...">
                             <div class="input-group-append btnPar">
-                                <button class="btn btn-primary search" type="button" id="button-addon2"><i class="fas fa-search"></i></button>
+                                <button class="btn btn-dark search" type="button" id="button-addon2"><i class="fa-solid fa-magnifying-glass"></i> SEARCH</button>
                             </div>
                         </div>
 
@@ -35,7 +35,7 @@
 
                     <div class="col-12 col-md-9 col-xl-9 colTwo">
                         <div class="row today">
-                            <div class="card bg-light mb-3 " style="max-width: 400px;">
+                            <div class="card bg-dark mb-3 " style="max-width: 400px;">
                                 <h2 class="card-header cardTodayCityName"></h2>
                                 <h3 class="card-header cardTodayDate"></h3>
                                 <img class="icons"/>
@@ -48,6 +48,7 @@
                     </div>
 
                     <!-- Linking Javascript-->
+                    <script src="./assets/js/script.js"></script>
                     <script src="./assets/js/script.js"></script>
         </body>
 </html>
