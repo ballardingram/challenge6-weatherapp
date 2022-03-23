@@ -11,7 +11,7 @@ You can find the final product at: https://ballardingram.github.io/challenge6-we
 This was largely and independent project. I used AskBCS at the very end to clarify the weather API Key issue I had. I relied heavily on Bootstrap, JQUERY, and MDN documentation for all other help.
 
 ## Observations
-This project was exciting because I have always wondered how Server Side API websites worked. Putting one (1) together was a challenge due to the variables and loops, but exciting otherwise. The documentation to use the Weather API was very helpful when getting the attributes.
+This project was exciting because I have always wondered how Server Side API websites worked. Putting one (1) together was a challenge due to the variables and loops, but exciting otherwise. The documentation to use the Weather API was very helpful when getting the attributes. Also - as a USER EXPERIENCE SURPRISE - I wanted to add in additional code that changes based on the time of day. So if a USER went to the site at night they would get a different background than if they went during the day.
 
 ## Challenges
 Now that I have the project coming together, I found that being able to write structured, easy to read, and appropriate code is a lot harder than you would assume. You have to keep things neat and orderly.
