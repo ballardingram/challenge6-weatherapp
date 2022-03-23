@@ -19,13 +19,16 @@ Now that I have the project coming together, I found that being able to write st
 ## Product Images
 
 ### Preview of the Site
+![preview of the site](https://github.com/ballardingram/challenge6-weatherapp/blob/main/assets/images/readme0.gif)
 
 ### Landing Page
+![Landing Page](https://github.com/ballardingram/challenge6-weatherapp/blob/main/assets/images/readme1.jpg)
 
 ### Search Function
-
-### Search History
+![Search Function](https://github.com/ballardingram/challenge6-weatherapp/blob/main/assets/images/readme2.jpg)
 
 ### Current Day Weather
+![Current Day Weather](https://github.com/ballardingram/challenge6-weatherapp/blob/main/assets/images/readme3.jpg)
 
 ### Five (5) Day Forecast
+![Five Day Forecast](https://github.com/ballardingram/challenge6-weatherapp/blob/main/assets/images/readme4.jpg)
